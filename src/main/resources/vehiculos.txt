@@ -1,0 +1,5 @@
+1;ASGR-121;KIA;Sportage;5;26000;Negro
+2;BGDT-345;Toyota;Corolla;5;22000;Blanco
+3;HRJL-567;Honda;Civic;5;24000;Azul
+4;KLUM-890;Ford;Escape;5;27000;Gris
+5;NOSP-234;Chevrolet;Equinox;5;25000;Rojo
